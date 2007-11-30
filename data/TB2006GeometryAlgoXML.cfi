@@ -6,7 +6,7 @@ es_source = XMLIdealGeometryESSource {
 		"Geometry/HcalTestBeamData/data/TBHcal.xml",     
 		"Geometry/HcalTestBeamData/data/TBHcal06BeamLine.xml",
 		"Geometry/HcalTestBeamData/data/TBHcalCable.xml",
-		"Geometry/HcalTestBeamData/data/TBHcalBarrel.xml",
+		"Geometry/HcalTestBeamData/data/2006/TBHcalBarrel.xml",
 		"Geometry/HcalTestBeamData/data/TBHcalEndcap.xml",
 		"Geometry/HcalTestBeamData/data/TBHcal06HcalOuter.xml",
 		"Geometry/HcalTestBeamData/data/ebcon.xml",
